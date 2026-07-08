@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This repository contains a comprehensive, production-ready Business Intelligence solution built in Power BI. The project addresses the real-world operational and analytical challenges of a high-growth D2C Beauty & Personal Care (BPC) brand managing fragmented multi-channel sales architectures, complex vendor contract rates, and performance marketing spend attribution.
 
+![Dashboard Preview]()
+
 ## 🛠️ Key Business Challenges Solved
 * **Data Fragmentation:** Consolidated highly inconsistent data formats across internal ERP servers (D2C Website), Nile marketplace, and DCart (comprising Scheduled and Quick Commerce sub-channels) into a scalable framework.
 * **Delayed Vendor Settlements:** Automated a manual, error-prone 5–6 day reporting lag down to a near-real-time data refresh system.
